@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm 김상혁 👋</h1>
+<h1 align="center"></h1>
 
 <p align="center">
   🎓 KyungHee University, CSE<br/>
